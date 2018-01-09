@@ -8,3 +8,5 @@ the background without maing it too distracting.
 Again these were hand-built transitions and animations using Flash, Dreamweaver and Photoshop 7. 
 
 Very proud of this version and even today, I still find it quite appealing.
+
+Tou can see it working here: https://bugdude01.github.io/clubsolana_4/
